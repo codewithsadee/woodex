@@ -1,0 +1,288 @@
+Woodex - Get Quality Furniture
+This is an eCommerce html template made by codewithsadee
+
+
+
+
+#---------- HEADER ----------#
+
+placeholder = Search Anything...
+
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+
+Woodex
+
+aria-label = user
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+
+aria-label = favorite list
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+0
+
+aria-label = cart
+<ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
+0
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- SIDEBAR ----------#
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Language
+English
+French
+Arabric
+
+Currency
+USD - US Dollar
+Euro
+Pound
+
+Home
+About
+Product
+Blogs
+
+Contact Us
+
+69 Halsey St, Ny 10002, New York, United States
+
+support.center@woodex.co
+
+(0000) 1235 567890
+
+Follow US On Socials
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-tumblr"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+alt = Art Deco Home
+
+Art Deco Home
+
+Decoration
+
+Helen Chair
+
+Vase Of Flowers
+
+Wood Eggs
+
+Table Wood Pine
+
+Furniture
+
+
+
+#---------- ABOUT ----------#
+
+Woodex Store
+
+When you start with a portrait and search for a pure form, a clear volume, through successive eliminations, you arrive inevitably at the egg. Likewise, starting with the egg and following the same process in reverse, one finishes with the portrait.
+
+alt = Woodex promo
+
+aria-label = play video
+
+<ion-icon name="play-circle-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- PRODUCT ----------#
+
+Popular Products
+
+All Products
+Accessory
+Decoration
+Furniture
+
+filter = decoration
+alt = Animi Dolor Pariatur
+
+aria-label = add to cart
+<ion-icon name="add-outline" aria-hidden="true"></ion-icon>
+
+aria-label = add to cart
+<ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
+
+aria-label = add to whishlist
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+
+Sale
+-10%
+
+Animi Dolor Pariatur
+$19.00
+$10.00
+
+filter = accessory
+Out of Stock
+Art Deco Home
+$30.00
+
+filter = decoration
+Artificial potted plant
+$40.00
+
+filter = accessory
+Dark Green Jug
+$17.10
+
+filter = accessory
+Drinking Glasses
+$21.00
+
+filter = furniture
+Helen Chair
+$69.50
+
+filter = accessory
+High Quality Glass Bottle
+$30.10
+
+filter = accessory
+Living Room & Bedroom Lights
+$45.00
+
+filter = furniture
+Nancy Chair
+$90.00
+
+filter = furniture
+Simple Chair
+$40.00
+
+filter = decoration
+Smooth Disk
+$46.00
+
+filter = furniture
+Table Black
+$67.00
+
+filter = furniture
+Table Wood Pine
+$50.00
+
+filter = accessory
+Teapot with black tea
+$25.00
+
+filter = decoration
+Unique Decoration
+$15.00
+
+filter = decoration
+Vase Of Flowers
+$77.00
+
+filter = decoration
+Wood Eggs
+$19.00
+
+filter = decoration
+Wooden Box
+$27.00
+
+filter = accessory
+Wooden Cups
+$29.00
+
+
+
+#---------- BLOG ----------#
+
+Explore our blog
+
+View All
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = Unique products that will impress your home in 2022.
+
+Read more
+<ion-icon name="add-outline" aria-hidden="true"></ion-icon>
+
+Unique products that will impress your home in 2022.
+
+November 27, 2022
+Admin
+in deco
+
+Navy Blue & White Striped Area Rugs
+
+November 25
+
+Woodex White Coated Staircase Floating
+
+November 18
+
+
+
+#---------- NEWSLETTER ----------#
+
+Our Newsletter
+
+Subscribe our newsletter and get discount 50% off
+
+placeholder = Your email address
+
+aria-label = subscribe
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- FOOTER ----------#
+
+Woodex
+
+<ion-icon name="location-sharp" aria-hidden="true"></ion-icon>
+Woodex, Chicago, USA 2022
+
+<ion-icon name="call-sharp" aria-hidden="true"></ion-icon>
++1234567890
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-tumblr"></ion-icon>
+
+Help & Information
+Help & Contact Us
+Returns & Refunds
+Online Stores
+Terms & Conditions
+
+About Us
+About Us
+What We Do
+FAQ Page
+Contact Us
+
+Newsletter
+placeholder = Your email address
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Term & Condition
+Policy
+Map
+
+&copy; 2022 All Rights Reserved by codewithsadee.
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="arrow-up" aria-hidden="true"></ion-icon>
